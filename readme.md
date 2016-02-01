@@ -3,6 +3,10 @@
 ###[Slidedeck](https://github.com/sr320/talk-univ-perp-2016/blob/master/2016-Montpellier-Roberts.pdf)
 
 **Related Products**
+
+Dimond JL and Roberts SB  (**2015**), [Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change](http://onlinelibrary.wiley.com/doi/10.1111/mec.13414/abstract) Molecular Ecology doi:10.1111/mec.13414 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/mec.13414" data-hide-no-mentions="true" class="altmetric-embed"></span> [_preprint_](https://digital.lib.washington.edu/researchworks/handle/1773/34298)
+
+
 Claire E. Olson, Steven B. Roberts. Indication of family-specific DNA methylation patterns in developing oysters **bioRxiv** doi: <http://dx.doi.org/10.1101/012831> <span data-badge-popover="right" data-badge-type="4" data-doi="10.1101/012831" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Olson CE and Roberts SB. (**2014**). [Genome-wide profiling of DNA methylation and gene expression in _Crassostrea gigas_ male gametes](http://journal.frontiersin.org/Journal/10.3389/fphys.2014.00224/abstract) Frontiers in Physiology. 5:224. doi: 10.3389/fphys.2014.0022   <span data-badge-popover="right" data-badge-type="4" data-doi="10.3389/fphys.2014.00224" data-hide-no-mentions="true" class="altmetric-embed"></span>
