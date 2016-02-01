@@ -1,6 +1,9 @@
 ##Does DNA Methylation Facilitate Phenotypic Plasticity?
 
+---
 ###[Slidedeck](https://github.com/sr320/talk-univ-perp-2016/blob/master/2016-Montpellier-Roberts.pdf)
+
+---
 
 **Related Products**
 
@@ -32,4 +35,4 @@ Epigenomic and transcriptomic regulation of environmental responses in the Pacif
 
 **Links**
 
-* [Aggregated view of all DNA methylation data](http://onsnetwork.org/halfshell/2015/06/22/first-steps-at-an-aggregated-view-of-all-dna-methylation-data/)
+* [Aggregated view of all _C. gigas_ DNA methylation data](http://onsnetwork.org/halfshell/2015/06/22/first-steps-at-an-aggregated-view-of-all-dna-methylation-data/)
