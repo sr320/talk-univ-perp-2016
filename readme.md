@@ -9,6 +9,7 @@
 
 Dimond JL and Roberts SB  (**2015**), [Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change](http://onlinelibrary.wiley.com/doi/10.1111/mec.13414/abstract) Molecular Ecology doi:10.1111/mec.13414 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/mec.13414" data-hide-no-mentions="true" class="altmetric-embed"></span> [_preprint_](https://digital.lib.washington.edu/researchworks/handle/1773/34298)
 
+Gavery MR, Delrow J, Basom R, Roberts SB. (2015) Influence of 17α-ethinylestradiol on DNA Methylation in Oysters. **GitHub / Zenodo** <https://github.com/sr320/paper-Oyster-EE2>
 
 Claire E. Olson, Steven B. Roberts. Indication of family-specific DNA methylation patterns in developing oysters **bioRxiv** doi: <http://dx.doi.org/10.1101/012831> <span data-badge-popover="right" data-badge-type="4" data-doi="10.1101/012831" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
@@ -36,3 +37,5 @@ Epigenomic and transcriptomic regulation of environmental responses in the Pacif
 **Links**
 
 * [Aggregated view of all _C. gigas_ DNA methylation data](http://onsnetwork.org/halfshell/2015/06/22/first-steps-at-an-aggregated-view-of-all-dna-methylation-data/)
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/First_steps_at_an_aggregated_view_of_all_DNA_methylation_data__updated____half-shell_1C609E2D.png" alt="First_steps_at_an_aggregated_view_of_all_DNA_methylation_data__updated____half-shell_1C609E2D.png"/>
