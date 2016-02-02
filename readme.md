@@ -1,4 +1,5 @@
-##Does DNA Methylation Facilitate Phenotypic Plasticity?
+Epigenetics for Mollusk Workshop
+###Does DNA Methylation Facilitate Phenotypic Plasticity?
 
 ---
 ###[Slidedeck](https://github.com/sr320/talk-univ-perp-2016/blob/master/2016-Montpellier-Roberts.pdf)
@@ -30,6 +31,8 @@ Gavery MR and Roberts SB. (**2012**) [Characterizing short read sequencing for g
 ---
 
 Epigenomic and transcriptomic regulation of environmental responses in the Pacific oyster, _Crassostrea gigas_. Mackenzie Gavery. 2014. [http://hdl.handle.net/1773/25984](http://hdl.handle.net/1773/25984)
+
+DNA methylation variation in gametes and larvae of the Pacific oyster, _Crassostrea gigas_. Claire Ellis Olson. 2014 [http://hdl.handle.net/1773/27478](http://hdl.handle.net/1773/27478)
 
 
 ---
