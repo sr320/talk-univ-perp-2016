@@ -29,6 +29,8 @@ Roberts SB and Gavery MR (**2012**) [Is there a relationship between DNA methyla
 Gavery MR and Roberts SB. (**2012**) [Characterizing short read sequencing for gene discovery and RNA-Seq analysis in Crassostrea gigas](http://www.sciencedirect.com/science/article/pii/S1744117X11001018) Comparative Biochemistry and Physiology Part D: Genomics and Proteomics 7:2 94-99. doi:10.1016/j.cbd.2011.12.003 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.cbd.2011.12.003" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Gavery MR and Roberts SB. (**2010**) [DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (_Crassostrea gigas_)](http://www.biomedcentral.com/1471-2164/11/483) BMC Genomics 11:483. doi:10.1186/1471-2164-11-483 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1186/1471-2164-11-483" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+
 ---
 
 Epigenomic and transcriptomic regulation of environmental responses in the Pacific oyster, _Crassostrea gigas_. Mackenzie Gavery. 2014. [http://hdl.handle.net/1773/25984](http://hdl.handle.net/1773/25984)
