@@ -39,6 +39,6 @@ DNA methylation variation in gametes and larvae of the Pacific oyster, _Crassost
 
 **Links**
 
-* [Aggregated view of all _C. gigas_ DNA methylation data](http://onsnetwork.org/halfshell/2015/06/22/first-steps-at-an-aggregated-view-of-all-dna-methylation-data/)
+### [Aggregated view of all _C. gigas_ DNA methylation data](http://onsnetwork.org/halfshell/2015/06/22/first-steps-at-an-aggregated-view-of-all-dna-methylation-data/)
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/First_steps_at_an_aggregated_view_of_all_DNA_methylation_data__updated____half-shell_1C609E2D.png" alt="First_steps_at_an_aggregated_view_of_all_DNA_methylation_data__updated____half-shell_1C609E2D.png"/>
